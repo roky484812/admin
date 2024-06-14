@@ -1,0 +1,27 @@
+{
+    "name": "roky/admin",
+    "description": "this package is for admin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Roky\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roky",
+            "email": "roky484812@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Roky/Admin/Providers/AdminServiceProvider"
+            ],
+            "aliases": {}
+        }
+    }
+}
