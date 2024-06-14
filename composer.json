@@ -1,5 +1,6 @@
 {
     "name": "roky/admin",
+    "version": "1.0.0",
     "description": "this package is for admin",
     "type": "library",
     "license": "MIT",
