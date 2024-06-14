@@ -1,6 +1,6 @@
 {
     "name": "roky/admin",
-    "description": "this package is for admin",
+    "description": "this package is for admin ",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,7 +14,6 @@
             "email": "roky484812@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": "^8.2"
     },
