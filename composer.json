@@ -14,7 +14,7 @@
             "email": "roky484812@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": "^8.2"
     },
