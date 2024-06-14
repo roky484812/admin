@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Roky/Admin/AdminServiceProvider"
+                "Roky/Admin/Providers/AdminServiceProvider"
             ],
             "aliases": {}
         }

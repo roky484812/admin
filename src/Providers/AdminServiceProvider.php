@@ -1,6 +1,6 @@
 <?php
 
-namespace Roky\Admin;
+namespace Roky\Admin\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
