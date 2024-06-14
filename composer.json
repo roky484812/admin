@@ -14,13 +14,14 @@
             "email": "roky484812@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.2"
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Roky/Admin/Providers/AdminServiceProvider"
+                "Roky\\Admin\\Providers\\AdminServiceProvider"
             ],
             "aliases": {}
         }
