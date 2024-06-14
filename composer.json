@@ -1,6 +1,6 @@
 {
     "name": "roky/admin",
-    "description": "this package is for admin ",
+    "description": "this package is for admin as",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Roky/Admin/Providers/AdminServiceProvider"
+                "Roky/Admin/AdminServiceProvider"
             ],
             "aliases": {}
         }
